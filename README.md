@@ -13,5 +13,6 @@ Using **Sentence-BERT** embeddings and a thematic labeling framework, the projec
 - `results.html` → Interactive output of matches and themes  
 
 ---
-📊 Results → https://mariafernandaortega.github.io/GSS-2025-Impact-Report/results.html
+## 📊 Results → 
+https://mariafernandaortega.github.io/GSS-2025-Impact-Report/results.html
 
