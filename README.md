@@ -1,4 +1,4 @@
-# GSS 2025 ↔ T20 Alignment (NLP Pipeline)
+# GSS 2025 ↔ T20 Communiqué (NLP Pipeline)
 
 ## 📌 Overview  
 This repository contains the code, data, methodology, and results of an NLP-based comparison between **Global Solutions Summit (GSS) 2025 Action Points** and **T20 Communiqué Recommendations**.  
