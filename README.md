@@ -9,7 +9,7 @@ Using **Sentence-BERT** embeddings and a thematic labeling framework, the projec
 ## 📂 Repository Contents  
 - `Methodology.md` → Detailed description of the approach and framework  
 - `analysis.ipynb` → Jupyter Notebook with the full NLP pipeline  
-- `data/` → Source documents and processed datasets  
+- `data/` → Source documents  
 - `results.html` → Interactive output of matches and themes  
 
 ---
